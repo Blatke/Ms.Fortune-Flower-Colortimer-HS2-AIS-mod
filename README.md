@@ -1,4 +1,4 @@
-# Ms.Fortune-Flower-Colortimer
+# Ms.Fortune Flower Colortimer
 A HS2/AIS accessory.
 
 ![106101728_p0_master1200](https://github.com/Blatke/Ms.Fortune-Flower-Colortimer/assets/125734582/9afb421c-bc24-43c1-8015-7e27f79959b1)
