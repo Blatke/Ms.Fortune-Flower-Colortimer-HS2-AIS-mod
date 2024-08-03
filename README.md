@@ -12,4 +12,4 @@ In **Chara Maker** mode of your game, on the **Accessory** panel, add a slot and
 
 You can also use MaterialEditor in Chara Maker to adjust its main and emissive colors as well as main and eimissive textures. 
 
-![image](https://github.com/Blatke/Ms.Fortune-Flower-Colortimer/assets/125734582/06cdb4e8-ec55-4122-a5ca-54bd5d8ef57b)
+![2024-08-03_211132](https://github.com/user-attachments/assets/7740039c-79ed-48ba-8a19-a0a6ca97585f)
