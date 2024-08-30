@@ -10,6 +10,6 @@ Drag and drop the .zipmod file into your game directory **/mods/** folder.
 
 In **Chara Maker** mode of your game, on the **Accessory** panel, add a slot and search for **"blake", "fortune" or "flower"** on the **Chest** tab, then add it to the slot.
 
-You can also use MaterialEditor in Chara Maker to adjust its main and emissive colors as well as main and eimissive textures. 
+You can also use MaterialEditor in Chara Maker to adjust its main and emissive colors as well as main and emissive textures. 
 
 ![2024-08-03_211132](https://github.com/user-attachments/assets/7740039c-79ed-48ba-8a19-a0a6ca97585f)
